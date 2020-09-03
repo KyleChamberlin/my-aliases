@@ -15,5 +15,5 @@ alias isds='ldapsearch -h iamldapro.us.kworld.kpmg.com -p 636 -D "cn=lookup,c=us
 alias vim='mvim -v'
 alias tmux='tmux -2'
 alias ng='npx -p @angular/cli ng'
-alias asciicast2gif='npx -p asciicast2gif'
+alias asciicast2gif='npx -p asciicast2gif asciicast2gif`
 
