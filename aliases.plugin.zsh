@@ -1,5 +1,5 @@
 alias ll='ls -al'
-alias ping='ping -C 5'
+alias ping='ping -c 5'
 alias mkdir='mkdir -p'
 alias vimrc='vim ~/.vim/vimrc'
 alias bashrc='vim ~/.bashrc'
